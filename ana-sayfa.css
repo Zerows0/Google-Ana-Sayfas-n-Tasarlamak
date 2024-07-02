@@ -1,0 +1,71 @@
+img {
+
+
+    display: block;
+   margin-top: 150px;
+   margin-left: 530px;
+   width: 30%;
+   
+} 
+
+#ilkyazi{
+
+text-align: center;
+    margin-left: 385px;
+    padding:20px; 
+    background-color: aqua;
+    border:10px ;
+    width:200px;
+    height:50px;
+    
+}
+
+.ikincikutu {
+
+    font-size:13px;
+        text-align: center;
+            margin-top: -105px;
+            margin-left: 630px;
+            padding:20px; 
+            background-color:teal;
+            border:10px ;
+            width:200px;
+            height:50px;
+
+}
+
+.ucuncukutu {   
+font-size: 13px;
+   text-align:  center;
+   margin-top: -90px;
+    margin-left: 875px;
+    padding:20px; 
+    background-color: #52b2bf;
+    border:10px ;
+    width:200px;
+    height:50px;
+
+}
+#email {
+
+margin-top: 20px;
+
+}
+
+#tr3 {
+
+position: fixed;
+top: 400px;
+right:485px;
+
+}
+
+#subscribe {
+
+margin-left: -36px;
+}
+
+#Kurulus {
+
+    text-align: center;
+}
